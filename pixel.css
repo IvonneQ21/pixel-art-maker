@@ -1,0 +1,32 @@
+#canvas {
+  width:800px;
+  height: 500px;
+  background-color: EACEF9;
+  margin: 0 auto;
+  border-radius: 10px
+  margin-width: 50px;
+}
+#palette {
+  background-color: CA90F6;
+  margin: 20px;
+    /*border: 20px solid white;*/
+    padding: 60px;
+    margin: 0 auto;
+    border-radius: 20px
+}
+/*.box {
+  background-color: FBFBF9;
+  height:10px;
+  width: 10px;
+  border: 1px solid FBFBF9;
+  float: left;
+}*/
+body{
+  background-color: FBFBF9
+  font-family:Helvetica;
+
+}
+h1 {
+  margin-top: 1em;
+  padding: 1em;
+}
